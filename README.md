@@ -4,8 +4,6 @@
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-173-blue)
 
 **For contacts only use:**<br>
-[![Discord](https://cdn-icons-png.flaticon.com/512/2111/2111370.png)](https://discord.com/users/922208402875236364)
-
 
 <p>
   <a href="https://discord.com/users/922208402875236364" target="_blank" style="text-decoration:none;">
