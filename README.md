@@ -2,8 +2,7 @@
 <h1>Hello World 👋, I'm Hamoudi.</h1>
 </div>
 
-
-![Profile Views](https://img.shields.io/badge/Profile%20Views-173-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Hamoudidev&color=blue)
 
 <h3 align="left">For contact with me:</h3>
 <p align="left">
