@@ -10,7 +10,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
   </a>
   <a href="https://wa.me/01019160091" target="_blank">
-    <img src="https://www.flaticon.com/free-icon/whatsapp_733585?term=whatsapp&page=1&position=2&origin=search&related_id=733585" alt="WhatsApp" width="10" height="10"/>
+    <i class="fa-brands fa-square-whatsapp"></i>
   </a>
   <a href="https://discord.com/users/922208402875236364" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
