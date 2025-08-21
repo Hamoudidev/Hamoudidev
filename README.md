@@ -3,6 +3,6 @@
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-173-blue)
 
-**For contacts only use:**
+**For contacts only use:**<br>
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="30" height="30" alt="Discord"/>
 <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30" height="30" alt="WhatsApp"/>
