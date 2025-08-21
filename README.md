@@ -5,17 +5,6 @@
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-173-blue)
 
 **For contacts only use:**
-<p align="left">
-  <a href="https://facebook.com/Terbonx.5" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
-  </a>
-  <a href="https://wa.me/01019160091" target="_blank">
-    <i class="fa-brands fa-square-whatsapp"></i>
-  </a>
-  <a href="https://discord.com/users/922208402875236364" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
-  </a>
-</p>
-
+<i class="fa-brands fa-square-whatsapp"></i>
   
 
