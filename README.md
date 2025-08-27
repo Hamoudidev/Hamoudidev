@@ -18,5 +18,5 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoudidev&show_icons=true&locale=en&layout=compact" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoudidev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </div>
