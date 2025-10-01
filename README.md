@@ -23,4 +23,6 @@
   <br>
   
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C61M3KH9)
+
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Donations', '#72a4f2', 'C0C61M3KH9');kofiwidget2.draw();</script> 
 </div>
