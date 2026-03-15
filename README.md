@@ -21,6 +21,4 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamoudidev&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Langs"/> -->
 
   <br>
-
-  <a href="https://www.buymeacoffee.com/hamoudidev_" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
